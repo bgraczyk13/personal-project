@@ -57,7 +57,7 @@ function Login() {
                     <button type='submit' onClick={signIn}
                     className='login__signInButton'>Sign In</button>
                 </form>
-                <p>This is not actually Amazon. I am just smarter than fuck, and all of you should bow down and eat my shitter. Have a blessed day. Joe, You're mine.</p>
+                <p>Full Disclosure: This is not actually Amazon. This text here will be changed at some point when I come up with something clever to use.</p>
 
                 <button onClick={register}
                 className='login__registerButton'>Create your Blamazom Account</button>
